@@ -110,3 +110,11 @@ research-template/
 ├── .gitignore              # Ignore data, logs, caches, etc.
 ├── LICENSE                 # License for reuse
 └── README.md               # Project overview and usage
+
+
+## ⚙️ Setup
+
+### 1. Clone this repository
+```bash
+git clone https://github.com/<your-username>/research-template.git
+cd research-template
